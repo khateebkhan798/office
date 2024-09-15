@@ -34,19 +34,20 @@ nav{
 }
 
 .lft-nav{
-  font-size: 1vw;
-  height: 3.5vh;
+  width: 210px;
+  height: 7.3vh;
   overflow: hidden;
   cursor: pointer;
 }
 
-.lft-nav h1{
-  color: #fff;
+.lft-nav #logo{
+  margin-top: -4.6vh;
+  width: 220px;
   transition: all cubic-bezier(0.19, 1, 0.22, 1)1s;
 }
 
 .lft-nav:hover #logo{
-  margin-top: -4.5vh;
+  margin-top: -11.1vh;
 }
 
 .rght-nav{
