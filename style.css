@@ -1,5 +1,5 @@
 @font-face {
-  font-family: FontOne;
+  font-family: FontOnee;
   src: url(assest/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hiA.ttf);
 }
 
@@ -7,7 +7,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: FontOne;
+  font-family: FontOnee;
   font-weight: 400;
 }
 html , body{
