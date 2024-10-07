@@ -192,3 +192,4 @@ tl7.to(".scroll-img", {
     marginTop: "-880%",
     duration: 10, // Increased duration to slow down the images specifically
 });
+
